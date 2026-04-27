@@ -1,0 +1,13 @@
+body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #fce4ec, #e3f2fd);
+      margin: 0;
+      padding: 20px;
+    }
+
+.Names {
+    text-align: center;
+    margin:500px ;
+    display: grid;
+    font-size: 35px;
+}   
